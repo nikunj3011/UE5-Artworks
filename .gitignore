@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UE5_1 5.0/Saved/webcache_4147
+UE5_1 5.0/Saved/VideoCaptures
+UE5_1 5.0/Saved/MovieRenders
+UE5_1 5.0/Saved/Crashes
