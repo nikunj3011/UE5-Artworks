@@ -155,3 +155,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 UE5_1 5.0/Binaries
+UE5_1 5.0/Saved
+UE5_1 5.0/Intermediate
